@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 18",
+    "price": 40000,
+    "cate_id": "1",
+    "image": "https://halomobile.vn/wp-content/uploads/2026/09/iphone-18-pro-mau-do-300x300.webp"
+  },
+  {
+    "id": 2,
+    "name": "Samsung S26",
+    "price": 30000,
+    "cate_id": "1",
+    "image": "https://cdn.mediamart.vn/images/product/samsung-galaxy-s26-ultra-s948b-5g-12256g-tim_cd44473a.webp"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo legion 5",
+    "price": 60000,
+    "cate_id": "2",
+    "image": "https://hanoilab.com/wp-content/uploads/2025/12/legion-5-2024-undefined.webp"
+  }
+]
